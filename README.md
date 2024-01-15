@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @alokagarwal565
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning C programming language
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ... https://linktr.ee/alokagarwal565
+# Hello, I'm Alok Agarwal 👋
 
+I'm a CSE Student based in Jaipur. Welcome to my GitHub profile! Here you'll find some of the projects I've been working on and maybe a few random things I find interesting.
 
+## 🔧 Technologies & Tools
 
-<!---
-alokagarwal565/alokagarwal565 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- C
+- Python
+
+## 🌱 Currently Learning
+
+- Flutter
+
+## 📫 Contact Me
+
+- LinkedIn: [alokagarwal565](https://www.linkedin.com/in/alokagarwal565/)
+- Twitter: [@alokagarwal565](https://twitter.com/alokagarwal565)
+- Email: alokagarwal629@gmail.com
+
+## 🚀 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alokagarwal565&show_icons=true&theme=radical)
+
+## 📊 Top Languages
+
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alokagarwal565&layout=compact)
