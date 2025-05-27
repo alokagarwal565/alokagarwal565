@@ -30,7 +30,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokagarwal565" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alokagarwal565" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/alokagarwal565" height="30" width="40" /></a>
 <a href="https://fb.com/alokagarwal565/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alokagarwal565/" height="30" width="40" /></a>
 <a href="https://instagram.com/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokagarwal565" height="30" width="40" /></a>
 <a href="https://medium.com/@alokagarwal629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alokagarwal629" height="30" width="40" /></a>
