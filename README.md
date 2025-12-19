@@ -7,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/alokagarwal565" target="blank"><img src="https://img.shields.io/twitter/follow/alokagarwal565?logo=twitter&style=for-the-badge" alt="alokagarwal565" /></a> </p>
 
+<!--
 - 🔭 I’m currently working on **AI Super App**
 
 - 🌱 I’m currently learning **DSA[Java] & Dev**
@@ -14,7 +15,7 @@
 - 👯 I’m looking to collaborate on [Linkedin Post Generator](https://github.com/alokagarwal565/linkedin-post-generator)
 
 - 🤝 I’m looking for help with [Gate Pass System](https://github.com/alokagarwal565/Gate-Pass-System)
-
+-->
 - 👨‍💻 All of my projects are available at [https://github.com/alokagarwal565?tab=repositories](https://github.com/alokagarwal565?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/alokagarwal565/](https://www.linkedin.com/in/alokagarwal565/)
