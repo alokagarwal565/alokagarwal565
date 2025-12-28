@@ -26,8 +26,6 @@
 
 - 📄 Know about my experiences [https://tinyurl.com/alokagarwalresume](https://tinyurl.com/alokagarwalresume)
 
-- ⚡ Fun fact **A in Alok stands for AI**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokagarwal565" height="30" width="40" /></a>
