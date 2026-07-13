@@ -1,51 +1,261 @@
-<h1 align="center">Hi 👋, I'm Alok Agarwal</h1>
-<h3 align="center">Tech Enthusiast & Community Builder</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokagarwal565&label=Profile%20views&color=0e75b6&style=flat" alt="alokagarwal565" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:8B5CF6,100:6366F1&text=Alok%20Agarwal&fontSize=42&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokagarwal565" alt="alokagarwal565" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&color=A855F7&lines=AI+Engineer;Building+Production-Grade+LLM+Applications;RAG+%7C+Agentic+AI+%7C+Backend+Engineering;Full-Stack+Developer+%7C+Open+Source+Enthusiast"/>
 
-<p align="left"> <a href="https://twitter.com/alokagarwal565" target="blank"><img src="https://img.shields.io/twitter/follow/alokagarwal565?logo=twitter&style=for-the-badge" alt="alokagarwal565" /></a> </p>
+<br>
 
-<!--
-- 🔭 I’m currently working on **AI Super App**
+<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/CGPA-8.82%2F10-6366F1?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bengaluru-India-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 
-- 🌱 I’m currently learning **DSA[Java] & Dev**
+<br><br>
 
-- 👯 I’m looking to collaborate on [Linkedin Post Generator](https://github.com/alokagarwal565/linkedin-post-generator)
+<a href="https://linktr.ee/alokagarwal565">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-- 🤝 I’m looking for help with [Gate Pass System](https://github.com/alokagarwal565/Gate-Pass-System)
--->
-- 👨‍💻 All of my projects are available at [https://github.com/alokagarwal565?tab=repositories](https://github.com/alokagarwal565?tab=repositories)
+<a href="https://linkedin.com/in/alokagarwal565">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/alokagarwal565/](https://www.linkedin.com/in/alokagarwal565/)
+<a href="mailto:alokagarwal629@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-- 💬 Ask me about **SDE/SWE, DevRel & AI**
+<a href="https://github.com/alokagarwal565">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-- 📫 How to reach me **alokagarwal629@gmail.com**
+<br><br>
 
-- 📄 Know about my experiences [https://tinyurl.com/alokagarwalresume](https://tinyurl.com/alokagarwalresume)
+<img src="https://komarev.com/ghpvc/?username=alokagarwal565&style=for-the-badge&color=7C3AED"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alokagarwal565" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alokagarwal565" height="30" width="40" /></a>
-<a href="https://fb.com/alokagarwal565/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alokagarwal565/" height="30" width="40" /></a>
-<a href="https://instagram.com/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alokagarwal565" height="30" width="40" /></a>
-<a href="https://medium.com/@alokagarwal629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alokagarwal629" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@alokagarwal629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alokagarwal629" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/agarwalalok565" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="agarwalalok565" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/alokagarwal629" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alokagarwal629" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/alokagarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="alokagarwal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alokagarwal565" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/alokagarwal565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="alokagarwal565" height="30" width="40" /></a>
+<img src="https://img.shields.io/github/followers/alokagarwal565?style=for-the-badge&color=6366F1"/>
+
+<img src="https://img.shields.io/github/stars/alokagarwal565?style=for-the-badge&color=8B5CF6"/>
+
+</div>
+
+---
+
+# About Me
+
+I'm an **AI Engineer** passionate about building production-ready AI products that combine strong software engineering principles with modern LLM capabilities.
+
+My work focuses on developing scalable systems powered by **LLMs, Retrieval-Augmented Generation (RAG), Agentic AI, real-time streaming, backend architecture, and full-stack engineering**.
+
+I enjoy taking products from idea to deployment by owning architecture, implementation, optimization, and developer experience.
+
+### Currently Open To
+
+- AI Engineering
+- Software Engineering
+- Backend Engineering
+- Product Engineering
+- Developer Relations
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,mysql,c"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alokagarwal565&show_icons=true&locale=en&layout=compact" alt="alokagarwal565" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokagarwal565&show_icons=true&locale=en" alt="alokagarwal565" /></p>
+### Backend & Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alokagarwal565&" alt="alokagarwal565" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgresql,mongodb,docker"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,huggingface"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=gcp,git,github,linux,vscode"/>
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Details |
+|---------|---------|
+| LLM Engineering | Prompt Engineering, Tool Calling, Structured Outputs |
+| Agentic AI | Multi-Agent Systems, Workflow Orchestration |
+| Retrieval-Augmented Generation | Vector Search, Semantic Retrieval, RAG Pipelines |
+| Backend Engineering | FastAPI, Flask, Node.js, REST APIs |
+| Full Stack Development | React, Next.js, PostgreSQL |
+| Multimodal AI | OCR, Vision Models, Document Intelligence |
+| NLP | Embeddings, Translation, Text-to-SQL |
+| System Design | Scalable AI Architectures |
+
+---
+
+# Featured Project
+
+<details open>
+<summary><b>🚀 AI Super App — The Ultimate Creative Suite</b></summary>
+
+<br>
+
+An all-in-one generative AI platform that unifies image generation, video synthesis, document RAG, an AI portfolio builder, and a voice-controlled multi-app workspace into a single product.
+
+| Category | Details |
+|-----------|---------|
+| Stack | Next.js 15 • React • Flask (Python) • SQLAlchemy • Tailwind CSS |
+| Core Modules | AI Image Studio (Gemini 3.1) • AI Video Studio (VEO 3.1) • Document RAG Knowledge Bases • AI Portfolio Builder • AI Multi-App Workspace |
+| Architecture | Modular micro-hub design — each studio is an independent node sharing centralized auth and a credit system |
+| Security | Bcrypt authentication, isolated per-user data vaults, private RAG knowledge bases |
+| Repository | [github.com/alokagarwal565/AI-Super-App](https://github.com/alokagarwal565/AI-Super-App) |
+
+</details>
+
+---
+
+# Current Focus
+
+```yaml
+Learning:
+  - Advanced Agentic AI
+  - LLM Evaluation
+  - Distributed AI Systems
+  - System Design
+
+Building:
+  - AI Products
+  - Production RAG Systems
+  - Multi-Agent Platforms
+  - Full Stack Applications
+
+Exploring:
+  - Open Source AI
+  - AI Infrastructure
+  - MCP
+  - AI Developer Tools
+```
+
+---
+
+# Certifications
+
+<p>
+
+<img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Database%20Management-6366F1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Python%20for%20Data%20Science-8B5CF6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-C%20Programming-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Joy%20of%20Computing-6366F1?style=for-the-badge"/>
+
+</p>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=alokagarwal565&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=alokagarwal565&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=alokagarwal565&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/alokagarwal565/alokagarwal565/main/trophy.svg"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokagarwal565&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+# Connect With Me
+
+<div align="center">
+
+<a href="https://twitter.com/alokagarwal565" target="_blank"><img src="https://img.shields.io/badge/Twitter-7C3AED?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://linkedin.com/in/alokagarwal565" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://fb.com/alokagarwal565/" target="_blank"><img src="https://img.shields.io/badge/Facebook-8B5CF6?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://instagram.com/alokagarwal565" target="_blank"><img src="https://img.shields.io/badge/Instagram-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://medium.com/@alokagarwal629" target="_blank"><img src="https://img.shields.io/badge/Medium-9333EA?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://www.youtube.com/c/@alokagarwal629" target="_blank"><img src="https://img.shields.io/badge/YouTube-7C3AED?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/agarwalalok565" target="_blank"><img src="https://img.shields.io/badge/CodeChef-6366F1?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/alokagarwal629" target="_blank"><img src="https://img.shields.io/badge/HackerRank-8B5CF6?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/alokagarwal" target="_blank"><img src="https://img.shields.io/badge/Codeforces-A855F7?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
+<a href="https://www.leetcode.com/alokagarwal565" target="_blank"><img src="https://img.shields.io/badge/LeetCode-9333EA?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+<a href="https://auth.geeksforgeeks.org/user/alokagarwal565" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+<a href="mailto:alokagarwal629@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linktr.ee/alokagarwal565">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+> *"Building intelligent software that solves real-world problems through engineering excellence."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:8B5CF6,100:6366F1"/>
+
+</div>
