@@ -25,7 +25,7 @@ jobs:
           no-frame: "true"
           row: "2"
           column: "4"
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SNAKE_TOKEN }}
 
       - name: Commit trophy.svg
         run: |
