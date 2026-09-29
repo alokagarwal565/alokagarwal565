@@ -200,7 +200,7 @@ Exploring:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alokagarwal565&theme=tokyo-night&hide_border=true"/>
+<img src="https://contribkit.app/user/alokagarwal565.svg" alt="GitHub Contribution Activity" />
 
 </div>
 
