@@ -6,9 +6,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/CGPA-8.82%2F10-6366F1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bengaluru-India-111827?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Engineering-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG%20%26%20LLMs-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-4F46E5?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Backend%20Engineering-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 <br><br>
 
