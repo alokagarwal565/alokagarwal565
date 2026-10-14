@@ -111,7 +111,7 @@ I enjoy taking products from idea to deployment by owning architecture, implemen
 # Featured Project
 
 <details open>
-<summary><b>📡 Mavenir 3GPP Standards Intelligence Assistant — Evidence-First RAG Platform</b></summary>
+<summary><b>📡 3GPP Standards Intelligence Assistant — Evidence-First RAG Platform</b></summary>
 
 <br>
 
