@@ -111,19 +111,21 @@ I enjoy taking products from idea to deployment by owning architecture, implemen
 # Featured Project
 
 <details open>
-<summary><b>🚀 AI Super App — The Ultimate Creative Suite</b></summary>
+<summary><b>📡 Mavenir 3GPP Standards Intelligence Assistant — Evidence-First RAG Platform</b></summary>
 
 <br>
 
-An all-in-one generative AI platform that unifies image generation, video synthesis, document RAG, an AI portfolio builder, and a voice-controlled multi-app workspace into a single product.
+An evidence-first Retrieval-Augmented Generation (RAG) platform designed to answer complex technical questions about 3GPP 5G and 5G-Advanced specifications, with a focus on Release 18. Combines hybrid vector and lexical search, metadata-aware reranking, citation validation, and deterministic abstention to minimize hallucinations and deliver traceable, specification-backed answers.
 
 | Category | Details |
 |-----------|---------|
-| Stack | Next.js 15 • React • Flask (Python) • SQLAlchemy • Tailwind CSS |
-| Core Modules | AI Image Studio (Gemini 3.1) • AI Video Studio (VEO 3.1) • Document RAG Knowledge Bases • AI Portfolio Builder • AI Multi-App Workspace |
-| Architecture | Modular micro-hub design — each studio is an independent node sharing centralized auth and a credit system |
-| Security | Bcrypt authentication, isolated per-user data vaults, private RAG knowledge bases |
-| Repository | [github.com/alokagarwal565/AI-Super-App](https://github.com/alokagarwal565/AI-Super-App) |
+| Stack | React 18 • Vite • TypeScript • FastAPI • Python 3.12 • PostgreSQL 16 • Supabase |
+| AI & Retrieval | RAG • Google Gemini API • BAAI/bge-m3 • pgvector • PostgreSQL Full-Text Search • BGE Cross-Encoder Reranking |
+| Core Features | Automated 3GPP Document Ingestion • Hybrid Retrieval • Clause-Level Citations • Citation Validation • Confidence-Based Abstention • SSE Streaming • Conversational Context |
+| Reliability | Deterministic Query Routing • Prompt-Injection Filtering • Evidence-Gated Generation • Four-Stage LLM Fallback Cascade |
+| Architecture | Modular RAG pipeline with structure-aware document chunking, metadata-driven retrieval, reranking, and an eight-point citation validation gate |
+| Deployment | Vercel • Render • Supabase PostgreSQL |
+| Repository | [github.com/alokagarwal565/mavenir_chatbot](https://github.com/alokagarwal565/mavenir_chatbot) |
 
 </details>
 
